@@ -1,17 +1,18 @@
 
-# Good Read Me Generator
+# Good READ ME Generator
 ![MIT](https://img.shields.io/badge/license-MIT-green)
 ## Description
-Read Me
+Provides a template for Read Me
 ## Table of Content
 * [Description](#description)
-
+* [Installation](#installation)
 
 * [License](#license)
 
 
 * [Questions](#questions)
-
+## Installation
+npm i
 
 ## License
 MIT
