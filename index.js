@@ -21,19 +21,19 @@ const questions = [
   },
   {
     name: 'installation',
-    message: "What's the installation instructions of your project?",
+    message: "What are the installation instructions of your project?",
   },
   {
     name: 'usage',
-    message: "What's the usage instructions of your project?",
+    message: "What are the usage instructions of your project?",
   },
   {
     name: 'contributing',
-    message: "What's your contributing guidelines?",
+    message: "What are your contributing guidelines?",
   },
   {
     name: 'tests',
-    message: 'How is testing perform on this project?',
+    message: 'How is testing performed on this project?',
   },
   {
     type: 'list',
