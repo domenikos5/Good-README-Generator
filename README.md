@@ -1,8 +1,8 @@
 
-# Good README Generator
+# Good ReadMe Generator
 ![MIT](https://img.shields.io/badge/license-MIT-green)
 ## Description
-A program that utilizes Node.js to create a uniform and dynamic ReadMe file
+A program that utilizes Node.js to create a uniform and dynamic ReadMe file.
 ## Table of Content
 * [Description](#description)
 * [Installation](#installation)
@@ -12,13 +12,13 @@ A program that utilizes Node.js to create a uniform and dynamic ReadMe file
 * [Test](#tests)
 * [Questions](#questions)
 ## Installation
-Using CLI, run the "npm i" command
+Using CLI, run the "npm i" command. Once files are installed, run "node index.js"
 ## Usage
-Using CLI, install and run the program. In the CLI, you will be asked by a series of questions (inquiry) that will be displayed on your Github ReadMe section. 
+Using CLI, install and run the program. Fill the series of questions (inquiry). These  will be displayed on your Github ReadMe section.
 ## License
 MIT
 ## Contributing
-Kindly keep the codes clean and manageable.
+Kindly keep the codes cleaner and more manageable.
 ## Tests
 CLI
 ## Questions?
